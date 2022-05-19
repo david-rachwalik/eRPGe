@@ -1,3 +1,4 @@
+using eRPGe.API.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace eRPGe.API.Controllers
